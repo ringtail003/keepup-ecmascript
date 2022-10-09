@@ -1,10 +1,6 @@
 # Array.at
 
-### GitHub
-
 {% embed url="https://github.com/tc39/proposal-relative-indexing-method" %}
-
-### Overview
 
 インデックス指定で値を取り出す `Array.at` `String.at` が使えるようになった。
 
@@ -27,9 +23,7 @@ const array = [1, 2, 3];
 array.at(-1); // 3
 ```
 
-### Appendix
-
-### Document
+### Link
 
 {% embed url="https://caniuse.com/mdn-javascript_builtins_array_at" %}
 

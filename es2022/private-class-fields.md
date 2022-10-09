@@ -1,10 +1,8 @@
 # Private class fields
 
-### Proposal
+
 
 {% embed url="https://github.com/tc39/proposal-class-fields" %}
-
-### Overview
 
 完全にカプセル化されたプライベートフィールド・プライベートメソッドが宣言できるようになった。
 
@@ -40,9 +38,7 @@ class Foo {
 }
 ```
 
-### Appendix
-
-### Document
+### Link
 
 {% embed url="https://caniuse.com/mdn-javascript_classes_private_class_fields" %}
 

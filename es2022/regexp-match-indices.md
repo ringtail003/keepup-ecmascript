@@ -1,10 +1,6 @@
 # Regexp match indices
 
-### GitHub
-
 {% embed url="https://github.com/tc39/proposal-regexp-match-indices" %}
-
-### Overview
 
 `d` フラグを付けて正規表現で検索した場合に、マッチした位置を `indices` から得られるようになった。
 
@@ -23,9 +19,7 @@ for (match of text.matchAll(regex)) {
 }
 ```
 
-### Appendix
-
-### Document
+### Link
 
 {% embed url="https://caniuse.com/mdn-javascript_builtins_regexp_hasindices" %}
 

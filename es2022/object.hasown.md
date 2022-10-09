@@ -1,10 +1,6 @@
 # Object.hasOwn
 
-### GitHub
-
 {% embed url="https://github.com/tc39/proposal-accessible-object-hasownproperty" %}
-
-### Overview
 
 オブジェクトの `hasOwn` が使えるようになった。 従来の `hasOwnProperty` は外部で書き換えられるため、安全のために `Object.prototype.hasOwnProperty().call` を使うケースがあったが、これと同じことができるようになった。
 
@@ -16,9 +12,7 @@ Object.hasOwn(obj, "value");
 // true
 ```
 
-### Appendix
-
-### Document
+### Link
 
 {% embed url="https://caniuse.com/mdn-javascript_builtins_object_hasown" %}
 

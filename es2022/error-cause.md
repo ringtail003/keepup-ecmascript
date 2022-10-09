@@ -1,5 +1,11 @@
 # Error cause
 
+### GitHub
+
+{% embed url="https://github.com/tc39/proposal-error-cause" %}
+
+### Overview
+
 エラーを追跡するための `cause` が使えるようになった。
 
 ### Example
@@ -39,9 +45,9 @@ function fetch() {
 }
 ```
 
-### Link
+### Appendix
 
-{% embed url="https://github.com/tc39/proposal-error-cause" %}
+### Document
 
 {% embed url="https://caniuse.com/mdn-javascript_builtins_error_cause" %}
 

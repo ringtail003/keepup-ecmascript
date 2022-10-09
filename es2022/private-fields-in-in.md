@@ -1,11 +1,5 @@
 # Private fields in-in
 
-### GitHub
-
-{% embed url="https://github.com/tc39/proposal-private-fields-in-in" %}
-
-### Overview
-
 メソッドの引数に関して、特定のプライベートフィールドを持つかどうか `in` 演算子で判定できるようになった。
 
 この機能がない場合、try...catchで例外を使った冗長な書き方を使うしかない。もっとシンプルに書きたいというモチベーションで提案された。
@@ -43,7 +37,9 @@ class Child extends Parent {}
 console.log(Parent.isFamily(new Child()));
 ```
 
-### Appendix
+### Link
+
+{% embed url="https://github.com/tc39/proposal-private-fields-in-in" %}
 
 {% embed url="https://caniuse.com/mdn-javascript_classes_private_class_fields_in" %}
 

@@ -1,6 +1,10 @@
 # Class static block
 
+### GitHub
+
 {% embed url="https://github.com/tc39/proposal-class-static-block" %}
+
+### Overview
 
 クラス構文のstaticなフィールド・メソッド・ブロックが使えるようになった。
 
@@ -12,7 +16,7 @@ class LegacyWay {}
 LegacyWay.value = "";
 ```
 
-### Link
+### Example
 
 ```javascript
 class Foo {
@@ -24,6 +28,10 @@ class Foo {
 }
 console.log(Foo.url); // "/api/users"
 ```
+
+### Appendix
+
+### Document
 
 {% embed url="https://caniuse.com/mdn-javascript_classes_static" %}
 

@@ -1,12 +1,14 @@
 # index
 
-ES2022は2022/06にリリースされました。
+### Release
 
 {% embed url="https://github.com/tc39/ecma262/releases/tag/es2022" %}
 
+### Link
 
+分かりやすく説明されたページのメモ。
 
-これらのページで分かりやすく説明されています。
+* [JavaScriptの次の仕様ES2022の新機能まとめ](https://ics.media/entry/220610/)
 
 
 

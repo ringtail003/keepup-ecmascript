@@ -13,3 +13,7 @@
   * [Object.hasOwn](es2022/object.hasown.md)
   * [Class static block](es2022/class-static-block.md)
   * [Error cause](es2022/error-cause.md)
+
+## ES2023
+
+* [toSorted, toReversed](es2023/tosorted-toreversed.md)

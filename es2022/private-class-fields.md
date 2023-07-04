@@ -1,11 +1,5 @@
 # Private class fields
 
-### Proposal
-
-{% embed url="https://github.com/tc39/proposal-class-fields" %}
-
-### Overview
-
 完全にカプセル化されたプライベートフィールド・プライベートメソッドが宣言できるようになった。
 
 TypeScriptのprivateアクセサを使った場合、トランスパイル後のJavaScriptではむき出しのフィールド・メソッドに変換され、privateはTypeScriptで開発している時だけの保護機能として存在する（ソフトプライベート）。
@@ -40,9 +34,9 @@ class Foo {
 }
 ```
 
-### Appendix
+### Link
 
-### Document
+{% embed url="https://github.com/tc39/proposal-class-fields" %}
 
 {% embed url="https://caniuse.com/mdn-javascript_classes_private_class_fields" %}
 

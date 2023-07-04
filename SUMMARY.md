@@ -16,4 +16,5 @@
 
 ## ES2023
 
-* [toSorted, toReversed](es2023/tosorted-toreversed.md)
+* [配列の非破壊操作](es2023/no.md)
+* [配列の要素の置換](es2023/nono.md)

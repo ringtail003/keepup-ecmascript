@@ -1,11 +1,5 @@
 # Class static block
 
-### GitHub
-
-{% embed url="https://github.com/tc39/proposal-class-static-block" %}
-
-### Overview
-
 クラス構文のstaticなフィールド・メソッド・ブロックが使えるようになった。
 
 従来では動的にクラスの変数を追加することで実現していたが、よりクラスらしい宣言ができるようになった。
@@ -29,9 +23,9 @@ class Foo {
 console.log(Foo.url); // "/api/users"
 ```
 
-### Appendix
+### Link
 
-### Document
+{% embed url="https://github.com/tc39/proposal-class-static-block" %}
 
 {% embed url="https://caniuse.com/mdn-javascript_classes_static" %}
 

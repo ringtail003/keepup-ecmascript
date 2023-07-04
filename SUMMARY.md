@@ -17,6 +17,5 @@
 ***
 
 * [ES2023](es2023/README.md)
-  * [Array.toSorted,toReversed,toSpliced](es2023/array.tosorted-toreversed-tospliced.md)
+  * [配列の非破壊操作](es2023/no.md)
   * [Array.with](es2023/array.with.md)
-  * [Page 1](es2023/page-1.md)

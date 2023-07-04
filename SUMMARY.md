@@ -14,7 +14,9 @@
   * [Class static block](es2022/class-static-block.md)
   * [Error cause](es2022/error-cause.md)
 
-## ES2023
+***
 
-* [配列の非破壊操作](es2023/no.md)
-* [配列の要素の置換](es2023/nono.md)
+* [ES2023](es2023/README.md)
+  * [Array.toSorted,toReversed,toSpliced](es2023/array.tosorted-toreversed-tospliced.md)
+  * [Array.with](es2023/array.with.md)
+  * [Page 1](es2023/page-1.md)

@@ -17,6 +17,7 @@
 ***
 
 * [ES2023](es2023/README.md)
+  * [Symbols as WeakMap key](es2023/symbols-as-weakmap-key.md)
+  * [Hashbang Grammar](es2023/hashbang-grammar.md)
   * [Array.findLast, findLastIndex](es2023/array.findlast-findlastindex.md)
   * [配列の非破壊操作](es2023/no.md)
-  * [Array.with](es2023/array.with.md)

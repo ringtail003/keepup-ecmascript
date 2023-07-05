@@ -6,8 +6,6 @@ description: 非破壊操作
 
 配列そのものを更新するメソッドについて `to{動詞}ed` という新たなメソッドが追加された。
 
-例：sort（従来）toSorted（追加）
-
 ## toSorted()
 
 並べ替え

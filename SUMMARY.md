@@ -21,3 +21,8 @@
   * [Hashbang Grammar](es2023/hashbang-grammar.md)
   * [Array.findLast, findLastIndex](es2023/array.findlast-findlastindex.md)
   * [配列の非破壊操作](es2023/no.md)
+* [ES2024](es2024/README.md)
+  * [Resizable and growable ArrayBuffers](es2024/resizable-and-growable-arraybuffers.md)
+  * [RegExp v flag with set notation + properties of strings](es2024/regexp-v-flag-with-set-notation-+-properties-of-strings.md)
+  * [Atomics.waitAsync](es2024/atomics.waitasync.md)
+  * [Well-Formed Unicode Strings](es2024/well-formed-unicode-strings.md)

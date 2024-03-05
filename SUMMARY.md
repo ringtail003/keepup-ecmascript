@@ -1,11 +1,6 @@
 # Table of contents
 
 * [About](README.md)
-
-## Release
-
-***
-
 * [Proposal](proposal/README.md)
   * [using](proposal/using.md)
 * [ES2024](es2024/README.md)
@@ -18,7 +13,7 @@
   * [Hashbang Grammar](es2023/hashbang-grammar.md)
   * [Array.findLast, findLastIndex](es2023/array.findlast-findlastindex.md)
   * [配列の非破壊操作](es2023/no.md)
-* [ES2022](es2022/README.md)
+* [ES2022](release/es2022/README.md)
   * [Private class fields](es2022/private-class-fields.md)
   * [Regexp match indices](es2022/regexp-match-indices.md)
   * [Top-level await](es2022/top-level-await.md)

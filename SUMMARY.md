@@ -3,6 +3,7 @@
 * [About](README.md)
 * [Proposal](proposal/README.md)
   * [using](proposal/using.md)
+  * [Import Attribute](proposal/import-attribute.md)
 * [ES2024](es2024/README.md)
   * [Resizable and growable ArrayBuffers](es2024/resizable-and-growable-arraybuffers.md)
   * [RegExp v flag with set notation + properties of strings](es2024/regexp-v-flag-with-set-notation-+-properties-of-strings.md)

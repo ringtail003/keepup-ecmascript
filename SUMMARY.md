@@ -9,6 +9,7 @@
   * [RegExp v flag with set notation + properties of strings](es2024/regexp-v-flag-with-set-notation-+-properties-of-strings.md)
   * [Atomics.waitAsync](es2024/atomics.waitasync.md)
   * [Well-Formed Unicode Strings](es2024/well-formed-unicode-strings.md)
+  * [array grouping](es2024/array-grouping.md)
 * [ES2023](es2023/README.md)
   * [Symbols as WeakMap key](es2023/symbols-as-weakmap-key.md)
   * [Hashbang Grammar](es2023/hashbang-grammar.md)

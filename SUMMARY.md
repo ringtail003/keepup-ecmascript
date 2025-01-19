@@ -10,6 +10,7 @@
   * [JSON Modules](es2025/json-modules.md)
   * [New Set Methods](es2025/new-set-methods.md)
   * [RegExp Modifiers](es2025/regexp-modifiers.md)
+  * [Duplicate named capture groups](es2025/duplicate-named-capture-groups.md)
 * [ES2024](es2024/README.md)
   * [Resizable and growable ArrayBuffers](es2024/resizable-and-growable-arraybuffers.md)
   * [RegExp v flag with set notation + properties of strings](es2024/regexp-v-flag-with-set-notation-+-properties-of-strings.md)

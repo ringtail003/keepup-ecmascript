@@ -3,6 +3,7 @@
 * [About](README.md)
 * [Proposal](proposal/README.md)
   * [using](proposal/using.md)
+  * [Temporal](proposal/temporal.md)
 * [ES2025](es2025/README.md)
   * [Promise.try](es2025/promise.try.md)
   * [Sync Iterator helpers](es2025/sync-iterator-helpers.md)
